@@ -1,0 +1,37 @@
+{
+  "train": {
+    "r2_score": 0.8385124034403478,
+    "mae": 63893006.49189084,
+    "rmse": 139675756.10607558
+  },
+  "test": {
+    "r2_score": 0.831708196797484,
+    "mae": 65805140.745156236,
+    "rmse": 138418095.38326085
+  },
+  "model_info": {
+    "feature_columns": [
+      "car_age",
+      "kilometer",
+      "km_per_year",
+      "km_per_month",
+      "zero_km",
+      "is_automatic",
+      "car_name",
+      "color",
+      "gearbox",
+      "fuel",
+      "body_status",
+      "model"
+    ],
+    "categorical_features": [
+      "car_name",
+      "color",
+      "gearbox",
+      "fuel",
+      "body_status",
+      "model"
+    ],
+    "current_year": 1404
+  }
+}

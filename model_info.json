@@ -1,0 +1,25 @@
+{
+  "feature_columns": [
+    "car_age",
+    "kilometer",
+    "km_per_year",
+    "km_per_month",
+    "zero_km",
+    "is_automatic",
+    "car_name",
+    "color",
+    "gearbox",
+    "fuel",
+    "body_status",
+    "model"
+  ],
+  "categorical_features": [
+    "car_name",
+    "color",
+    "gearbox",
+    "fuel",
+    "body_status",
+    "model"
+  ],
+  "current_year": 1404
+}
