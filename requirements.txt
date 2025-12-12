@@ -1,0 +1,6 @@
+flask
+flask-cors
+catboost
+pandas
+numpy
+gunicorn
